@@ -18,3 +18,5 @@ Links:
 Colab: https://colab.research.google.com/drive/1-fsuPx4XUvnoy-ob_C2BrCvfApCzqO29?authuser=1#scrollTo=or3XSaorVnNt
 
 Document Scanner: https://github.com/murtazahassan/Document-Scanner.git
+
+Tesseract OCR: https://github.com/tesseract-ocr/tesseract.git
