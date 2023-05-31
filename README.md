@@ -28,7 +28,7 @@ Preprocessing numbers:
   - Slashs are deleted and numbers between them analized.
 
 TEST:
-  - In this part arabicocr and pytesseract are used for extracting rest of the information. At the end extracted information from this part and the information from image processing part are stuck together and reported as final result.
+  - In this part **arabicocr** and **pytesseract** are used for extracting rest of the information. At the end extracted information from this part and the information from image processing part are stuck together and reported as final result.
 
 ***
 
