@@ -6,13 +6,12 @@ This project is a simple OCR sistem using opencv, ArabicOcr, and pytesseract. Yo
 
 Requirements:
 
-!pip install opencv-python-headless
+  - !pip install opencv-python-headless
+  - !pip install ArabicOcr
+  - !pip install pytesseract
+  - !sudo apt-get install tesseract-ocr-fas
 
-!pip install ArabicOcr
-
-!pip install pytesseract
-
-!sudo apt-get install tesseract-ocr-fas
+***
 
 Links:
 
