@@ -25,7 +25,7 @@ Preprocessing numbers:
 
   - In this part the information which are numbers are analized.
   - Numbers are analized one by one (zeros and ones are recognized by image processing).
-  - Slashs are deleted and numbers between them analized.
+  - Slashs are deleted and numbers between them extracted.
 
 TEST:
   - In this part **arabicocr** and **pytesseract** are used for extracting rest of the information. At the end extracted information from this part and the information from image processing part are stuck together and reported as final result.
