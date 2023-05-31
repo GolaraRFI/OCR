@@ -11,6 +11,8 @@ Requirements:
   - !pip install pytesseract
   - !sudo apt-get install tesseract-ocr-fas
 
+***
+
 Extract binary information:
 
   - In this part extra data is deleted from the image and only the needed information is kept in a binary image.
