@@ -24,7 +24,7 @@ Extract each part separately:
 Preprocessing numbers:
 
   - In this part the information which are numbers are analized.
-  - Numbers are analized one by one and zeros and ones are recognized by image processing.
+  - Numbers are analized one by one (zeros and ones are recognized by image processing).
   - Slashs are deleted and numbers between them analized.
 
 TEST:
