@@ -34,7 +34,7 @@ TEST:
 
 Links:
 
-Colab: https://colab.research.google.com/drive/1-fsuPx4XUvnoy-ob_C2BrCvfApCzqO29?authuser=1#scrollTo=or3XSaorVnNt
+Colab: https://drive.google.com/file/d/1cHBEd77bTpsL-4XnkPfciEXWPue5cXys/view?usp=sharing
 
 Document Scanner: https://github.com/murtazahassan/Document-Scanner.git
 
