@@ -14,21 +14,21 @@ Requirements:
 ***
 **Project steps:**
 
-Extract binary information:
+1 - Extract binary information:
 
   - In this part extra data is deleted from the image and only the needed information is kept in a binary image.
 
-Extract each part separately:
+2 - Extract each part separately:
 
   - In this part the information which are not numbers are saved in seperate images.
  
-Preprocessing numbers:
+3 - Preprocessing numbers:
 
   - In this part the information which are numbers are analized.
   - Numbers are analized one by one (zeros and ones are recognized by image processing).
   - Slashs are deleted and numbers between them extracted.
 
-TEST:
+4 - TEST:
   - In this part **arabicocr** and **pytesseract** are used for extracting rest of the information. At the end extracted information from this part and the information from image processing part are stuck together and reported as final result.
 
 ***
