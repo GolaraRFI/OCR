@@ -12,6 +12,7 @@ Requirements:
   - !sudo apt-get install tesseract-ocr-fas
 
 ***
+**Project steps:**
 
 Extract binary information:
 
