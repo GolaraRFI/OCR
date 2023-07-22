@@ -24,7 +24,7 @@ Requirements:
  
 3 - Preprocessing numbers:
 
-  - In this part the information which are numbers are analized.
+  - In this part the information (numbers) are analized.
   - Numbers are analized one by one (zeros and ones are recognized by image processing).
   - Slashs are deleted and numbers between them extracted.
 
