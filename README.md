@@ -1,6 +1,6 @@
 # OCR
 
-![](images/scanned.jpg)
+![scanned](https://github.com/GolaraRFI/OCR/assets/80590542/38040edd-19fd-4c7e-9f2f-9254d5ab1465)
 
 This project is a simple OCR system using opencv, ArabicOcr, and pytesseract. You can extract personal information from **Persian** **Identity** **Card**. This is a perfect project for beginners as it is simple and covers the core principals of opencv, ArabicOcr, and pytesseract.
 
