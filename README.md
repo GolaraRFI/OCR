@@ -29,6 +29,8 @@ This step involves the analysis of numeric information. Numbers are processed on
 4. Testing:
 In this phase, ArabicOcr and pytesseract are employed to extract the remaining information. The extracted information from this step is then combined with the information from the image processing step to produce the final result.
 
+***
+
 Useful Links:
 
 Document Scanner: https://github.com/murtazahassan/Document-Scanner.git
