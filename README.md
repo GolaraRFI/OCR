@@ -10,12 +10,12 @@ This project is a simple Optical Character Recognition (OCR) system that utilize
 
 Before you get started, ensure you have the following dependencies installed:
 
-```bash
+```python
 pip install opencv-python-headless
 pip install ArabicOcr
 pip install pytesseract
 sudo apt-get install tesseract-ocr-fas
-
+```
 Project Steps:
 1. Extract Binary Information:
 In this step, extraneous data is removed from the image, retaining only the necessary information in a binary image.
