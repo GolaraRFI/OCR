@@ -35,7 +35,6 @@ Requirements:
 
 Links:
 
-Colab: https://drive.google.com/file/d/1cHBEd77bTpsL-4XnkPfciEXWPue5cXys/view?usp=sharing
 
 Document Scanner: https://github.com/murtazahassan/Document-Scanner.git
 
